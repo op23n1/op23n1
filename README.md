@@ -1,9 +1,14 @@
 ## Welcome!
 ### I AM A:
-* Computer Science student studying at the University of Alberta in Canada
+* Computer Science student at the University of Alberta in Canada
 * Multi-instrumentalist and composer
+    * Piano
+    * Saxophones
+    * Clarinets
+    * Guitars
+    * Drums
 * FOSS ♥️
-* Mathemmatics and problem solving enthusiast
+* Mathematics and problem solving enthusiast
 
 
 ### Technologies I Use:
